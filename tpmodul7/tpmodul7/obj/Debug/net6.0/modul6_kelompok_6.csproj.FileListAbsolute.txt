@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\mod6_kel6\mod6_Kel6\modul6_kelompok_6\bin\Debug\net6.0\modul6_kelompok_6.exe
+C:\Users\USER\source\repos\mod6_kel6\mod6_Kel6\modul6_kelompok_6\bin\Debug\net6.0\modul6_kelompok_6.deps.json
+C:\Users\USER\source\repos\mod6_kel6\mod6_Kel6\modul6_kelompok_6\bin\Debug\net6.0\modul6_kelompok_6.runtimeconfig.json
+C:\Users\USER\source\repos\mod6_kel6\mod6_Kel6\modul6_kelompok_6\bin\Debug\net6.0\modul6_kelompok_6.dll
+C:\Users\USER\source\repos\mod6_kel6\mod6_Kel6\modul6_kelompok_6\bin\Debug\net6.0\modul6_kelompok_6.pdb
+C:\Users\USER\source\repos\mod6_kel6\mod6_Kel6\modul6_kelompok_6\obj\Debug\net6.0\modul6_kelompok_6.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\mod6_kel6\mod6_Kel6\modul6_kelompok_6\obj\Debug\net6.0\modul6_kelompok_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\mod6_kel6\mod6_Kel6\modul6_kelompok_6\obj\Debug\net6.0\modul6_kelompok_6.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\mod6_kel6\mod6_Kel6\modul6_kelompok_6\obj\Debug\net6.0\modul6_kelompok_6.AssemblyInfo.cs
+C:\Users\USER\source\repos\mod6_kel6\mod6_Kel6\modul6_kelompok_6\obj\Debug\net6.0\modul6_kelompok_6.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\mod6_kel6\mod6_Kel6\modul6_kelompok_6\obj\Debug\net6.0\modul6_kelompok_6.dll
+C:\Users\USER\source\repos\mod6_kel6\mod6_Kel6\modul6_kelompok_6\obj\Debug\net6.0\refint\modul6_kelompok_6.dll
+C:\Users\USER\source\repos\mod6_kel6\mod6_Kel6\modul6_kelompok_6\obj\Debug\net6.0\modul6_kelompok_6.pdb
+C:\Users\USER\source\repos\mod6_kel6\mod6_Kel6\modul6_kelompok_6\obj\Debug\net6.0\modul6_kelompok_6.genruntimeconfig.cache
+C:\Users\USER\source\repos\mod6_kel6\mod6_Kel6\modul6_kelompok_6\obj\Debug\net6.0\ref\modul6_kelompok_6.dll

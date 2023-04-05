@@ -1,0 +1,15 @@
+{
+   "firstName": "Luthfan",
+   "lastName": "Wahyudi",
+   "gender": "male",
+   "age": 19,
+   "address": {
+       "streetAddress": "Pekalongan",
+       "city": "Sukadana",
+       "state": "Lampung Timur"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CII3B4", "name": "Nama Mata Kuliah" }
+   ]
+}
